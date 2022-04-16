@@ -1,3 +1,5 @@
 {
-    "additionalBranchPrefix": "{{baseDir}}-"
+    "additionalBranchPrefix": "{{packageFileDir}}-",
+    "timezone": "Asia/Tokyo",
+    "schedule":"* 21 * * *"
 }
